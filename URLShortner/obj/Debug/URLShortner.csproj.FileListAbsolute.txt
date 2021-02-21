@@ -1,13 +1,12 @@
+E:\Sem_6\SOC\Project\URLShortner\bin\Debug\EntityFramework.xml
 E:\Sem_6\SOC\Project\URLShortner\bin\Debug\URLShortner.dll.config
 E:\Sem_6\SOC\Project\URLShortner\bin\Debug\URLShortner.dll
 E:\Sem_6\SOC\Project\URLShortner\bin\Debug\URLShortner.pdb
 E:\Sem_6\SOC\Project\URLShortner\bin\Debug\EntityFramework.dll
 E:\Sem_6\SOC\Project\URLShortner\bin\Debug\EntityFramework.SqlServer.dll
 E:\Sem_6\SOC\Project\URLShortner\bin\Debug\System.ComponentModel.Annotations.dll
-E:\Sem_6\SOC\Project\URLShortner\bin\Debug\EntityFramework.xml
 E:\Sem_6\SOC\Project\URLShortner\bin\Debug\EntityFramework.SqlServer.xml
 E:\Sem_6\SOC\Project\URLShortner\obj\Debug\URLShortner.csproj.CoreCompileInputs.cache
 E:\Sem_6\SOC\Project\URLShortner\obj\Debug\URLShortner.csproj.CopyComplete
 E:\Sem_6\SOC\Project\URLShortner\obj\Debug\URLShortner.dll
 E:\Sem_6\SOC\Project\URLShortner\obj\Debug\URLShortner.pdb
-E:\Sem_6\SOC\Project\URLShortner\obj\Debug\URLShortner.csprojAssemblyReference.cache

@@ -31,12 +31,13 @@ namespace URLShortner
                 return "Enter valid URL...!!!";
             }            
         }
-        public string GetOriginalUrl(String shortUrl)
+        public String GetOriginalUrl(String shortUrl)
         {
             string orignalUrl = "";
             UrlService urlService = new UrlService();
             orignalUrl = urlService.GetUrl(shortUrl);                                   
             Console.WriteLine("Original : " + orignalUrl);
+            
             return orignalUrl;
         }
         public bool checkUrl(String orignalUrl)
